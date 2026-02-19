@@ -1,0 +1,5 @@
+{
+  "name": "Ad Performance Insight Dashboard",
+  "description": "An interactive dashboard for analyzing banner advertising performance metrics including Impressions, CTR, CPC, and CPM with AI-powered optimization insights.",
+  "requestFramePermissions": []
+}
